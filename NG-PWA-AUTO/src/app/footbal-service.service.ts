@@ -22,7 +22,6 @@ export class FootbalService {
         pluck('fixtures'),
         // @ts-ignore
         map(data => data.slice(0, 48)),
-        tap(data => console.log('after-slice', data)),
         map(obj => this.insertFlagUrls(obj))
       );
   }

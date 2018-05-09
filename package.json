@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve:auto": " http-server ./NG-PWA-AUTO/dist -c-1"
+    "serve:auto": "cd ./NG-PWA-AUTO && ng build --prod && http-server ./dist -c-1"
   },
   "keywords": [],
   "author": "",
