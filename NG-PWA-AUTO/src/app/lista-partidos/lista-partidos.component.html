@@ -1,11 +1,13 @@
 <mat-list>
   <h3 matSubheader>Horario del Mundial(GT)</h3>
   <mat-list-item *ngFor="let partido of ( listaDePartidos$ | async)">
-    <img matListAvatar [src]="partido?.awayTeamFlagImg" [alt]="partido?.awayTeamName">
+    <img matListAvatar [src]="'/assets/flags/' + (partido?.awayTeamName | lowerCaseLodash) + '.png' "
+         [alt]="partido?.awayTeamName">
     <h3 matLine> {{partido?.awayTeamName}} Vs {{partido?.homeTeamName}} </h3>
     <p matLine>
       <span> {{ partido?.date | date : 'MMM d, y h:mm a' : '-0600' }} </span>
     </p>
-    <img matListAvatar [src]="partido?.homeTeamFlagImg" [alt]="partido?.homeTeamName">
+    <img matListAvatar [src]="'/assets/flags/' + (partido?.homeTeamName | lowerCaseLodash) + '.png' "
+         [alt]="partido?.homeTeamName">
   </mat-list-item>
 </mat-list>

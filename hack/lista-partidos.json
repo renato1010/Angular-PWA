@@ -1,0 +1,340 @@
+{
+  "data": [
+    {
+      "date": "2018-06-14T15:00:00Z",
+      "awayTeamName": "Arabia Saudita",
+      "homeTeamName": "Rusia",
+      "awayTeamFlagImg": "http://www.countryflags.io/sa/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ru/shiny/48.png"
+    },
+    {
+      "date": "2018-06-15T12:00:00Z",
+      "awayTeamName": "Uruguay",
+      "homeTeamName": "Egipto",
+      "awayTeamFlagImg": "http://www.countryflags.io/uy/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/eg/shiny/48.png"
+    },
+    {
+      "date": "2018-06-15T15:00:00Z",
+      "awayTeamName": "Iran",
+      "homeTeamName": "Marruecos",
+      "awayTeamFlagImg": "http://www.countryflags.io/ir/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ma/shiny/48.png"
+    },
+    {
+      "date": "2018-06-15T18:00:00Z",
+      "awayTeamName": "Espana",
+      "homeTeamName": "Portugal",
+      "awayTeamFlagImg": "http://www.countryflags.io/es/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/pt/shiny/48.png"
+    },
+    {
+      "date": "2018-06-16T10:00:00Z",
+      "awayTeamName": "Australia",
+      "homeTeamName": "Francia",
+      "awayTeamFlagImg": "http://www.countryflags.io/au/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/fr/shiny/48.png"
+    },
+    {
+      "date": "2018-06-16T13:00:00Z",
+      "awayTeamName": "Islandia",
+      "homeTeamName": "Argentina",
+      "awayTeamFlagImg": "http://www.countryflags.io/is/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ar/shiny/48.png"
+    },
+    {
+      "date": "2018-06-16T16:00:00Z",
+      "awayTeamName": "Dinamarca",
+      "homeTeamName": "Peru",
+      "awayTeamFlagImg": "http://www.countryflags.io/dk/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/pe/shiny/48.png"
+    },
+    {
+      "date": "2018-06-16T19:00:00Z",
+      "awayTeamName": "Nigeria",
+      "homeTeamName": "Croacia",
+      "awayTeamFlagImg": "http://www.countryflags.io/ne/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/hr/shiny/48.png"
+    },
+    {
+      "date": "2018-06-17T12:00:00Z",
+      "awayTeamName": "Serbia",
+      "homeTeamName": "Costa Rica",
+      "awayTeamFlagImg": "http://www.countryflags.io/rs/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/cr/shiny/48.png"
+    },
+    {
+      "date": "2018-06-17T15:00:00Z",
+      "awayTeamName": "Mexico",
+      "homeTeamName": "Alemania",
+      "awayTeamFlagImg": "http://www.countryflags.io/mx/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/de/shiny/48.png"
+    },
+    {
+      "date": "2018-06-17T18:00:00Z",
+      "awayTeamName": "Suiza",
+      "homeTeamName": "Brazil",
+      "awayTeamFlagImg": "http://www.countryflags.io/ch/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/br/shiny/48.png"
+    },
+    {
+      "date": "2018-06-18T12:00:00Z",
+      "awayTeamName": "Corea del Sur",
+      "homeTeamName": "Suecia",
+      "awayTeamFlagImg": "http://www.countryflags.io/kr/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/se/shiny/48.png"
+    },
+    {
+      "date": "2018-06-18T15:00:00Z",
+      "awayTeamName": "Panama",
+      "homeTeamName": "Belgica",
+      "awayTeamFlagImg": "http://www.countryflags.io/pa/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/be/shiny/48.png"
+    },
+    {
+      "date": "2018-06-18T18:00:00Z",
+      "awayTeamName": "Inglaterra",
+      "homeTeamName": "Tunez",
+      "awayTeamFlagImg": "http://www.countryflags.io/gb/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/tn/shiny/48.png"
+    },
+    {
+      "date": "2018-06-19T12:00:00Z",
+      "awayTeamName": "Senegal",
+      "homeTeamName": "Polonia",
+      "awayTeamFlagImg": "http://www.countryflags.io/sn/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/pl/shiny/48.png"
+    },
+    {
+      "date": "2018-06-19T15:00:00Z",
+      "awayTeamName": "Japon",
+      "homeTeamName": "Colombia",
+      "awayTeamFlagImg": "http://www.countryflags.io/jp/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/co/shiny/48.png"
+    },
+    {
+      "date": "2018-06-19T18:00:00Z",
+      "awayTeamName": "Egipto",
+      "homeTeamName": "Rusia",
+      "awayTeamFlagImg": "http://www.countryflags.io/eg/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ru/shiny/48.png"
+    },
+    {
+      "date": "2018-06-20T12:00:00Z",
+      "awayTeamName": "Marruecos",
+      "homeTeamName": "Portugal",
+      "awayTeamFlagImg": "http://www.countryflags.io/ma/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/pt/shiny/48.png"
+    },
+    {
+      "date": "2018-06-20T15:00:00Z",
+      "awayTeamName": "Arabia Saudita",
+      "homeTeamName": "Uruguay",
+      "awayTeamFlagImg": "http://www.countryflags.io/sa/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/uy/shiny/48.png"
+    },
+    {
+      "date": "2018-06-20T18:00:00Z",
+      "awayTeamName": "Espana",
+      "homeTeamName": "Iran",
+      "awayTeamFlagImg": "http://www.countryflags.io/es/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ir/shiny/48.png"
+    },
+    {
+      "date": "2018-06-21T12:00:00Z",
+      "awayTeamName": "Peru",
+      "homeTeamName": "Francia",
+      "awayTeamFlagImg": "http://www.countryflags.io/pe/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/fr/shiny/48.png"
+    },
+    {
+      "date": "2018-06-21T15:00:00Z",
+      "awayTeamName": "Australia",
+      "homeTeamName": "Dinamarca",
+      "awayTeamFlagImg": "http://www.countryflags.io/au/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/dk/shiny/48.png"
+    },
+    {
+      "date": "2018-06-21T18:00:00Z",
+      "awayTeamName": "Croacia",
+      "homeTeamName": "Argentina",
+      "awayTeamFlagImg": "http://www.countryflags.io/hr/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ar/shiny/48.png"
+    },
+    {
+      "date": "2018-06-22T12:00:00Z",
+      "awayTeamName": "Costa Rica",
+      "homeTeamName": "Brazil",
+      "awayTeamFlagImg": "http://www.countryflags.io/cr/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/br/shiny/48.png"
+    },
+    {
+      "date": "2018-06-22T15:00:00Z",
+      "awayTeamName": "Islandia",
+      "homeTeamName": "Nigeria",
+      "awayTeamFlagImg": "http://www.countryflags.io/is/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ne/shiny/48.png"
+    },
+    {
+      "date": "2018-06-22T18:00:00Z",
+      "awayTeamName": "Suiza",
+      "homeTeamName": "Serbia",
+      "awayTeamFlagImg": "http://www.countryflags.io/ch/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/rs/shiny/48.png"
+    },
+    {
+      "date": "2018-06-23T12:00:00Z",
+      "awayTeamName": "Tunez",
+      "homeTeamName": "Belgica",
+      "awayTeamFlagImg": "http://www.countryflags.io/tn/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/be/shiny/48.png"
+    },
+    {
+      "date": "2018-06-23T15:00:00Z",
+      "awayTeamName": "Suecia",
+      "homeTeamName": "Alemania",
+      "awayTeamFlagImg": "http://www.countryflags.io/se/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/de/shiny/48.png"
+    },
+    {
+      "date": "2018-06-23T18:00:00Z",
+      "awayTeamName": "Mexico",
+      "homeTeamName": "Corea del Sur",
+      "awayTeamFlagImg": "http://www.countryflags.io/mx/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/kr/shiny/48.png"
+    },
+    {
+      "date": "2018-06-24T12:00:00Z",
+      "awayTeamName": "Panama",
+      "homeTeamName": "Inglaterra",
+      "awayTeamFlagImg": "http://www.countryflags.io/pa/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/gb/shiny/48.png"
+    },
+    {
+      "date": "2018-06-24T15:00:00Z",
+      "awayTeamName": "Senegal",
+      "homeTeamName": "Japon",
+      "awayTeamFlagImg": "http://www.countryflags.io/sn/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/jp/shiny/48.png"
+    },
+    {
+      "date": "2018-06-24T18:00:00Z",
+      "awayTeamName": "Colombia",
+      "homeTeamName": "Polonia",
+      "awayTeamFlagImg": "http://www.countryflags.io/co/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/pl/shiny/48.png"
+    },
+    {
+      "date": "2018-06-25T14:00:00Z",
+      "awayTeamName": "Egipto",
+      "homeTeamName": "Arabia Saudita",
+      "awayTeamFlagImg": "http://www.countryflags.io/eg/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/sa/shiny/48.png"
+    },
+    {
+      "date": "2018-06-25T14:00:00Z",
+      "awayTeamName": "Rusia",
+      "homeTeamName": "Uruguay",
+      "awayTeamFlagImg": "http://www.countryflags.io/ru/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/uy/shiny/48.png"
+    },
+    {
+      "date": "2018-06-25T18:00:00Z",
+      "awayTeamName": "Portugal",
+      "homeTeamName": "Iran",
+      "awayTeamFlagImg": "http://www.countryflags.io/pt/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ir/shiny/48.png"
+    },
+    {
+      "date": "2018-06-25T18:00:00Z",
+      "awayTeamName": "Marruecos",
+      "homeTeamName": "Espana",
+      "awayTeamFlagImg": "http://www.countryflags.io/ma/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/es/shiny/48.png"
+    },
+    {
+      "date": "2018-06-26T14:00:00Z",
+      "awayTeamName": "Francia",
+      "homeTeamName": "Dinamarca",
+      "awayTeamFlagImg": "http://www.countryflags.io/fr/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/dk/shiny/48.png"
+    },
+    {
+      "date": "2018-06-26T14:00:00Z",
+      "awayTeamName": "Peru",
+      "homeTeamName": "Australia",
+      "awayTeamFlagImg": "http://www.countryflags.io/pe/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/au/shiny/48.png"
+    },
+    {
+      "date": "2018-06-26T18:00:00Z",
+      "awayTeamName": "Argentina",
+      "homeTeamName": "Nigeria",
+      "awayTeamFlagImg": "http://www.countryflags.io/ar/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ne/shiny/48.png"
+    },
+    {
+      "date": "2018-06-26T18:00:00Z",
+      "awayTeamName": "Croacia",
+      "homeTeamName": "Islandia",
+      "awayTeamFlagImg": "http://www.countryflags.io/hr/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/is/shiny/48.png"
+    },
+    {
+      "date": "2018-06-27T14:00:00Z",
+      "awayTeamName": "Suecia",
+      "homeTeamName": "Mexico",
+      "awayTeamFlagImg": "http://www.countryflags.io/se/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/mx/shiny/48.png"
+    },
+    {
+      "date": "2018-06-27T14:00:00Z",
+      "awayTeamName": "Alemania",
+      "homeTeamName": "Corea del Sur",
+      "awayTeamFlagImg": "http://www.countryflags.io/de/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/kr/shiny/48.png"
+    },
+    {
+      "date": "2018-06-27T18:00:00Z",
+      "awayTeamName": "Brazil",
+      "homeTeamName": "Serbia",
+      "awayTeamFlagImg": "http://www.countryflags.io/br/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/rs/shiny/48.png"
+    },
+    {
+      "date": "2018-06-27T18:00:00Z",
+      "awayTeamName": "Costa Rica",
+      "homeTeamName": "Suiza",
+      "awayTeamFlagImg": "http://www.countryflags.io/cr/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/ch/shiny/48.png"
+    },
+    {
+      "date": "2018-06-28T14:00:00Z",
+      "awayTeamName": "Polonia",
+      "homeTeamName": "Japon",
+      "awayTeamFlagImg": "http://www.countryflags.io/pl/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/jp/shiny/48.png"
+    },
+    {
+      "date": "2018-06-28T14:00:00Z",
+      "awayTeamName": "Colombia",
+      "homeTeamName": "Senegal",
+      "awayTeamFlagImg": "http://www.countryflags.io/co/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/sn/shiny/48.png"
+    },
+    {
+      "date": "2018-06-28T18:00:00Z",
+      "awayTeamName": "Tunez",
+      "homeTeamName": "Panama",
+      "awayTeamFlagImg": "http://www.countryflags.io/tn/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/pa/shiny/48.png"
+    },
+    {
+      "date": "2018-06-28T18:00:00Z",
+      "awayTeamName": "Belgica",
+      "homeTeamName": "Inglaterra",
+      "awayTeamFlagImg": "http://www.countryflags.io/be/shiny/48.png",
+      "homeTeamFlagImg": "http://www.countryflags.io/gb/shiny/48.png"
+    }
+  ]
+}

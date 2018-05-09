@@ -32,15 +32,6 @@
         "maxAge": "100d",
         "maxSize": 10
       }
-    },
-    {
-      "name": "flags",
-      "urls": ["http://www.countryflags.io/**"],
-      "cacheConfig": {
-        "strategy": "freshness",
-        "maxAge": "100d",
-        "maxSize": 100
-      }
     }
   ]
 }
